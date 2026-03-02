@@ -37,7 +37,7 @@ Ad platforms
 
 # 🏗 System Architecture
 
-![system archeteture](system_archetecture.png)
+![system archeteture](whole_system.png)
 
 # 🧠 Core Components
 
